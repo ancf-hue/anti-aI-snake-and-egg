@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anti-a-i-snake-and-egg.vercel.app/sitemap.xml
